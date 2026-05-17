@@ -12,8 +12,8 @@ I update this table every time I complete a new chapter or major exercise.
 | :--- | :--- | :--- | :--- |
 | Chapter 1 | Getting Started | ✅ Complete | Environment setup, running first scripts. |
 | Chapter 2 | Variables & Data Types | ✅ Complete | Strings, numbers, and variable rules. |
-| Chapter 3 | Introducing Lists | ⏳ In Progress | Indexing, appending, popping, and sorting. |
-| Chapter 4 | Working with Lists | 🔲 Todo | - |
+| Chapter 3 | Introducing Lists | ✅ Complete | Indexing, appending, popping, and sorting. |
+| Chapter 4 | Working with Lists | 🔲 Todo | - |⏳ In Progress
 
 ---
 

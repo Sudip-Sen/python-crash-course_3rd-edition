@@ -91,6 +91,20 @@ print(rivers.pop()) # showing the last one which has been deleted ; if I give an
 print(rivers) # the list after the pop
 
 print(sorted(rivers)) # Temporarily sort alphabetically the rivers list
-print(sorted(rivers, reverse= True)) # 
+print(sorted(rivers, reverse= True)) # Temporarily sort alphabetically in a reverse manner of the rivers
+print(len(rivers))
 
+print(rivers)
+rivers.reverse() # Permanently reverse the actual order of the list (not alphabetically)
+print(rivers)
 
+rivers.sort()
+print(rivers) # Permanently sort the list alphabetically
+
+# 3-11
+y=[]
+print(y[-1]) # Error because there is no item in the list
+
+x=[1,2,3]
+print(x[2])
+print(x[3]) # Error because in the list there are 3 positions 0,1,2
